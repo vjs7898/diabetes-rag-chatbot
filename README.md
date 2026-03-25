@@ -1,3 +1,15 @@
+```
+---
+title: Diabetes RAG Chatbot
+emoji: 🔬
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: app.py
+pinned: false
+---
+```
 # 🔬 Research Paper RAG Chatbot
 
 A conversational AI chatbot that lets you **chat with any research PDF** 
