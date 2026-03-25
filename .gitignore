@@ -1,0 +1,6 @@
+Add this inside `.gitignore`:
+```
+.env
+venv/
+__pycache__/
+.chroma/Masters_Project.pdf
