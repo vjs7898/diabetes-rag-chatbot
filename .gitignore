@@ -1,6 +1,11 @@
 Add this inside `.gitignore`:
 ```
 .env
+.env.*
 venv/
+.venv/
 __pycache__/
-.chroma/Masters_Project.pdf
+chroma_db/
+.chroma/
+*.pdf
+*.pyc
